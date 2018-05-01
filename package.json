@@ -1,0 +1,25 @@
+{
+  "name": "example-graphql",
+  "version": "1.0.0",
+  "description": "Trying out GraphQL on express",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osukaa/graphql-example.git"
+  },
+  "keywords": [
+    "graphql",
+    "express",
+    "apollo-server",
+    "apollo"
+  ],
+  "author": "Oscar Funes <me@oscarfunes.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osukaa/graphql-example/issues"
+  },
+  "homepage": "https://github.com/osukaa/graphql-example#readme"
+}
